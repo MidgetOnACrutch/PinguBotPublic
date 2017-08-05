@@ -8,3 +8,6 @@ Current version - 1.0
 
 First things first, Node.js
 >You NEED this. [Link](https://nodejs.org/en/)
+
+Next, coding enviroment if you dont have one already
+>I highly suggest Visual Studio Code, compleatly free and very lightweight. [Link](https://code.visualstudio.com/)
