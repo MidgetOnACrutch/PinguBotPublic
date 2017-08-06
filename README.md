@@ -4,6 +4,7 @@ Current version - 1.0
 ### This is a basic full commented skeleton of PinguBot that is freely available to the public to be used as a starting point for your own bot.
 
 
+
 **Setting up your new bot**
 
 **First things first, Node.js**
