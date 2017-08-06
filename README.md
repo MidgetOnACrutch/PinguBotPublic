@@ -7,10 +7,10 @@ Current version - 1.0
 ##Setting up your new bot
 
 **First things first, Node.js**
->This is REQUIRED or else nothing will work. [Link](https://nodejs.org/en/)
+>[This](https://nodejs.org/en/) is REQUIRED or else nothing will work. 
 
 **Next, coding enviroment if you dont have one already**
->I highly suggest Visual Studio Code, compleatly free and very lightweight. [Link](https://code.visualstudio.com/)
+>I highly suggest [Visual Studio Code](https://code.visualstudio.com/), compleatly free and very lightweight. 
 
 **Last step for code setup, installing discord.js**
 1. Start by opening Visual Studio Code.
