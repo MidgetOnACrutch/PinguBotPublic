@@ -1,6 +1,11 @@
 # PinguBot Public Version
 Current version - 1.0
 
+### Sections
+1. [Prerequisites](https://github.com/MidgetOnACrutch/PinguBotPublic/blob/master/README.md#prerequisites)
+2. [Setting up your new bot](https://github.com/MidgetOnACrutch/PinguBotPublic/blob/master/README.md#setting-up-your-new-bot)
+3. [Creating basic commands](https://github.com/MidgetOnACrutch/PinguBotPublic/blob/master/README.md#creating-basic-commands)
+
 ## This is a basic full commented skeleton of PinguBot that is freely available to the public to be used as a starting point for your own bot.
 
 ### Prerequisites
