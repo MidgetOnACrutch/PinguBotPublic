@@ -6,7 +6,8 @@ Current version - 1.0
 2. [Setting up your new bot](https://github.com/MidgetOnACrutch/PinguBotPublic/blob/master/README.md#setting-up-your-new-bot)
 3. [Creating basic commands](https://github.com/MidgetOnACrutch/PinguBotPublic/blob/master/README.md#creating-basic-commands)
 
-## This is a basic full commented skeleton of PinguBot that is freely available to the public to be used as a starting point for your own bot.
+## About 
+**This is a basic fully commented skeleton of PinguBot that is freely available to the public to be used as a starting point for your own bot. Included in this readme is a full guide on setting up your bot and basic guide to creating commands.**
 
 ### Prerequisites
 
@@ -44,4 +45,4 @@ client.login("as2345Df545g62fh892h18918h9")
 4. Last thing is to bring the bot online. Go back into Visual Studio Code and in the Terminal we used before, type node . and hit enter. Wait for just a moment and if you did everything right it should say the bot has logged in as whatever you named it. Go check you discord server and it should show them as online. Congrats you now have a working discord bot. To turn the bot off go back to the Terminal window and hit CTRL and C. The bot may still appear as online for a few minutes.
 
 ### Creating basic commands
->Will be added soon
+>Will be added soon. NOTE - Will not be an indepth guide about coding in javascript. This will teach the basics of creating a command and step by step guide to making a simple copy cat command.
