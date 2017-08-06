@@ -9,7 +9,7 @@ Current version - 1.0
 >[This](https://nodejs.org/en/) is REQUIRED or else nothing will work. 
 
 **Next, coding enviroment if you dont have one already**
->I highly suggest [Visual Studio Code](https://code.visualstudio.com/), compleatly free and very lightweight. 
+>I highly suggest [Visual Studio Code](https://code.visualstudio.com/), compleatly free and lightweight, perfect for a beginner. 
 
 **Last step for code setup, installing discord.js**
 1. Start by opening Visual Studio Code.
