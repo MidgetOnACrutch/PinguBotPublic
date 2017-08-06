@@ -11,7 +11,7 @@ Current version - 1.0
 **Next, coding enviroment if you dont have one already**
 >I highly suggest [Visual Studio Code](https://code.visualstudio.com/), compleatly free and lightweight, perfect for a beginner. 
 
-**Last step for code setup, installing discord.js**
+**Installing discord.js**
 1. Start by opening Visual Studio Code.
 2. Navigate to the file button in the top left and click Open Folder. 
 3. Find the PinguBotPublic folder you should already have downloaded somewhere (if not do so now).
