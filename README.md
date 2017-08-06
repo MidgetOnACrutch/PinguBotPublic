@@ -4,7 +4,7 @@ Current version - 1.0
 ### This is a basic full commented skeleton of PinguBot that is freely available to the public to be used as a starting point for your own bot.
 
 
-##Setting up your new bot
+**Setting up your new bot**
 
 **First things first, Node.js**
 >[This](https://nodejs.org/en/) is REQUIRED or else nothing will work. 
@@ -37,5 +37,5 @@ client.login("as2345Df545g62fh892h18918h9")
 3. Your bot can now login but its not on your server. To invite your bot copy the Client ID from your bots dashboard and go to [this](https://discordapi.com/permissions.html) site and paste your client ID in the field at the bottom left. Check off all the permissions you want your bot to have (I suggest giving them every permission) and than click the link that gets generated at the bottom. Select the server you want to add them to and TADA your bot is now on your server.
 4. Last thing is to bring the bot online. Go back into Visual Studio Code and in the Terminal we used before, type node . and hit enter. Wait for just a moment and if you did everything right it should say the bot has logged in as whatever you named it. Go check you discord server and it should show them as online. Congrats you now have a working discord bot. To turn the bot off go back to the Terminal window and hit CTRL and C. The bot may still appear as online for a few minutes.
 
-###Creating basic commands
+**Creating basic commands**
 >Will be added soon
