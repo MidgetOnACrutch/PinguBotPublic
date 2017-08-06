@@ -3,7 +3,7 @@ Current version - 1.0
 
 ## This is a basic full commented skeleton of PinguBot that is freely available to the public to be used as a starting point for your own bot.
 
-### Setting up your new bot
+### Prerequisites
 
 **First things first, Node.js**
 >[This](https://nodejs.org/en/) is REQUIRED or else nothing will work. 
@@ -19,8 +19,10 @@ Current version - 1.0
 4. Still in Visual Studio Code, click View and click Integrated Terminal.
 5. Finally, in the Terminal that opened at the bottom type npm install discord.js and hit enter.
    * Wait for it to download everything and your all done. Dont worry about any errors in the Terminal log, thats normal.
-   
-**Next step is setting up your bots account**
+
+### Setting up your new bot
+
+**First step is to create the app**
 1. Go to the [Discord Developers](https://discordapp.com/developers/docs/intro) site and sign in with your discord account.
 2. After logging in click on **My Apps** on the side bar than click new app.
 3. Give your bot a name and a profile picture than click **Create App**.
